@@ -60,3 +60,46 @@ TEST: valid loss 2.6342 | valid ppl  13.9325
 | end of split   1 /  2 | epoch  20 | time:  2.15s | valid loss 2.5473 | valid ppl 12.7731 | learning rate 20.0000
 | end of split   2 /  2 | epoch  20 | time:  2.19s | valid loss 2.4957 | valid ppl 12.1307 | learning rate 20.0000
 TEST: valid loss 2.4967 | valid ppl  12.1427
+| end of split   1 /  2 | epoch   1 | time:  3.87s | valid loss 3.4075 | valid ppl 30.1895 | learning rate 20.0000
+TEST: valid loss 3.2702 | valid ppl  26.3178
+| end of split   1 /  2 | epoch   1 | time: 977.41s | valid loss 3.4439 | valid ppl 31.3101 | learning rate 20.0000
+| end of split   2 /  2 | epoch   1 | time:  3.24s | valid loss 3.2742 | valid ppl 26.4225 | learning rate 20.0000
+| end of split   1 /  2 | epoch   2 | time:  3.39s | valid loss 2.8580 | valid ppl 17.4274 | learning rate 20.0000
+| end of split   2 /  2 | epoch   2 | time:  3.41s | valid loss 2.7986 | valid ppl 16.4222 | learning rate 20.0000
+| end of split   1 /  2 | epoch   3 | time:  3.50s | valid loss 2.9602 | valid ppl 19.3023 | learning rate 20.0000
+| end of split   2 /  2 | epoch   3 | time:  3.73s | valid loss 2.6863 | valid ppl 14.6778 | learning rate 20.0000
+| end of split   1 /  2 | epoch   4 | time:  3.92s | valid loss 2.7372 | valid ppl 15.4432 | learning rate 20.0000
+| end of split   2 /  2 | epoch   4 | time:  4.17s | valid loss 2.6975 | valid ppl 14.8429 | learning rate 20.0000
+| end of split   1 /  2 | epoch   5 | time:  3.80s | valid loss 2.6907 | valid ppl 14.7414 | learning rate 20.0000
+| end of split   2 /  2 | epoch   5 | time:  3.94s | valid loss 2.6456 | valid ppl 14.0925 | learning rate 20.0000
+| end of split   1 /  2 | epoch   6 | time:  6.18s | valid loss 2.5862 | valid ppl 13.2791 | learning rate 20.0000
+| end of split   2 /  2 | epoch   6 | time:  3.58s | valid loss 2.5724 | valid ppl 13.0975 | learning rate 20.0000
+| end of split   1 /  2 | epoch   7 | time:  3.14s | valid loss 2.6177 | valid ppl 13.7046 | learning rate 20.0000
+| end of split   2 /  2 | epoch   7 | time:  3.43s | valid loss 2.5897 | valid ppl 13.3256 | learning rate 20.0000
+| end of split   1 /  2 | epoch   8 | time:  3.35s | valid loss 2.5098 | valid ppl 12.3020 | learning rate 20.0000
+| end of split   2 /  2 | epoch   8 | time:  3.18s | valid loss 2.5541 | valid ppl 12.8593 | learning rate 20.0000
+| end of split   1 /  2 | epoch   9 | time:  2.75s | valid loss 2.4479 | valid ppl 11.5642 | learning rate 20.0000
+| end of split   2 /  2 | epoch   9 | time:  2.92s | valid loss 2.4897 | valid ppl 12.0578 | learning rate 20.0000
+| end of split   1 /  2 | epoch  10 | time:  2.72s | valid loss 2.5051 | valid ppl 12.2450 | learning rate 20.0000
+| end of split   2 /  2 | epoch  10 | time:  2.66s | valid loss 2.5855 | valid ppl 13.2693 | learning rate 20.0000
+| end of split   1 /  2 | epoch  11 | time:  2.52s | valid loss 2.5244 | valid ppl 12.4837 | learning rate 20.0000
+| end of split   2 /  2 | epoch  11 | time:  2.54s | valid loss 2.5734 | valid ppl 13.1097 | learning rate 20.0000
+| end of split   1 /  2 | epoch  12 | time:  2.47s | valid loss 2.6554 | valid ppl 14.2304 | learning rate 20.0000
+| end of split   2 /  2 | epoch  12 | time:  2.55s | valid loss 2.3749 | valid ppl 10.7496 | learning rate 20.0000
+| end of split   1 /  2 | epoch  13 | time:  2.52s | valid loss 2.5419 | valid ppl 12.7032 | learning rate 20.0000
+| end of split   2 /  2 | epoch  13 | time:  2.45s | valid loss 2.4847 | valid ppl 11.9975 | learning rate 20.0000
+| end of split   1 /  2 | epoch  14 | time:  2.46s | valid loss 2.4920 | valid ppl 12.0855 | learning rate 20.0000
+| end of split   2 /  2 | epoch  14 | time:  2.46s | valid loss 2.5669 | valid ppl 13.0249 | learning rate 20.0000
+| end of split   1 /  2 | epoch  15 | time:  2.48s | valid loss 2.4659 | valid ppl 11.7744 | learning rate 20.0000
+| end of split   2 /  2 | epoch  15 | time:  2.49s | valid loss 2.5531 | valid ppl 12.8463 | learning rate 20.0000
+| end of split   1 /  2 | epoch  16 | time:  2.49s | valid loss 2.4728 | valid ppl 11.8550 | learning rate 20.0000
+| end of split   2 /  2 | epoch  16 | time:  2.49s | valid loss 2.5512 | valid ppl 12.8220 | learning rate 20.0000
+| end of split   1 /  2 | epoch  17 | time:  2.56s | valid loss 2.5609 | valid ppl 12.9477 | learning rate 20.0000
+| end of split   2 /  2 | epoch  17 | time:  2.45s | valid loss 2.4679 | valid ppl 11.7971 | learning rate 20.0000
+| end of split   1 /  2 | epoch  18 | time:  2.44s | valid loss 2.5246 | valid ppl 12.4863 | learning rate 20.0000
+| end of split   2 /  2 | epoch  18 | time:  2.52s | valid loss 2.3947 | valid ppl 10.9652 | learning rate 5.0000
+| end of split   1 /  2 | epoch  19 | time:  2.47s | valid loss 2.3851 | valid ppl 10.8607 | learning rate 5.0000
+| end of split   2 /  2 | epoch  19 | time:  2.46s | valid loss 2.4223 | valid ppl 11.2721 | learning rate 5.0000
+| end of split   1 /  2 | epoch  20 | time:  2.45s | valid loss 2.4498 | valid ppl 11.5866 | learning rate 5.0000
+| end of split   2 /  2 | epoch  20 | time:  2.43s | valid loss 2.3831 | valid ppl 10.8387 | learning rate 5.0000
+TEST: valid loss 2.2517 | valid ppl   9.5038
