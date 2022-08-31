@@ -27,6 +27,60 @@ pip install flair
 > 2. Pyenv - https://github.com/pyenv/pyenv
 >     - Dodatne instrukcije za instalaciju: https://realpython.com/intro-to-pyenv/
 
+Paketi koji su neophodni za `Flair` radni okvir:
+
+1. `pytorch`
+
+    - https://pytorch.org/get-started/locally/
+
+2. `numpy`
+
+    ```shell
+    pip install numpy
+    ## ili
+    conda install numpy
+    ```
+
+3. `pandas`
+
+    - https://pandas.pydata.org/docs/getting_started/install.html
+
+    ```shell
+    pip install pandas
+    ## ili
+    conda install pandas
+    ```
+
+4. `scikit-learn`
+
+    - https://scikit-learn.org/stable/install.html
+
+    ```shell
+    pip install scikit-learn
+    ## ili
+    conda install -c conda-forge scikit-learn
+    ```
+
+5. `matplotlib`
+
+    - https://matplotlib.org/stable/users/installing/index.html
+
+    ```shell
+    pip install matplotlib
+    ## ili
+    conda install matplotlib
+    ```
+
+6. `seaborn`
+
+    - https://seaborn.pydata.org/installing.html
+
+    ```shell
+    pip install seaborn
+    ## ili
+    conda install seaborn
+    ```
+
 
 
 ### Literatura i podaci
