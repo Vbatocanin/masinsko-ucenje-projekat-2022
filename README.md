@@ -85,10 +85,10 @@ Paketi koji su neophodni za `Flair` radni okvir:
 
 ### Literatura i podaci
 
-1.Istrenirani modeli mogu se pronaći na linku:
+1. Istrenirani modeli mogu se pronaći na linku:
 	- https://drive.google.com/file/d/1AsFBwFFXF-Lt9agq9-mpqVu1kxMdVwl8/view?usp=sharing
 	- svi modeli su sačuvani u formatu `resources/model_library/ime_modela/final-model.pt`
-2.Podaci uzeti sa linka:
+2. Podaci uzeti sa linka:
 
 	- https://github.com/UniversalDependencies/UD_Serbian-SET
 	
