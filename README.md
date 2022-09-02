@@ -85,15 +85,18 @@ Paketi koji su neophodni za `Flair` radni okvir:
 
 ### Literatura i podaci
 
-1. Podaci uzeti sa linka:
+1.Istrenirani modeli mogu se pronaći na linku:
+	- https://drive.google.com/file/d/1AsFBwFFXF-Lt9agq9-mpqVu1kxMdVwl8/view?usp=sharing
+	- svi modeli su sačuvani u formatu `resources/model_library/ime_modela/final-model.pt`
+2.Podaci uzeti sa linka:
 
 	- https://github.com/UniversalDependencies/UD_Serbian-SET
 	
 	- u pitanju su ručno labelirane rečenice na nivou tokena, na srpskom jeziku
 
-2. Koncept i ideja za model preuzete iz naučnog rada:
+3. Koncept i ideja za model preuzete iz naučnog rada:
     - https://alanakbik.github.io/papers/coling2018.pdf
-3. Flair radni okvir preuzet sa:
+4. Flair radni okvir preuzet sa:
     - https://github.com/flairNLP/flair
 
 
